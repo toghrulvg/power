@@ -1,0 +1,14 @@
+C:\Users\Resad\source\repos\power\power\bin\Debug\netcoreapp3.1\power.exe
+C:\Users\Resad\source\repos\power\power\bin\Debug\netcoreapp3.1\power.deps.json
+C:\Users\Resad\source\repos\power\power\bin\Debug\netcoreapp3.1\power.runtimeconfig.json
+C:\Users\Resad\source\repos\power\power\bin\Debug\netcoreapp3.1\power.runtimeconfig.dev.json
+C:\Users\Resad\source\repos\power\power\bin\Debug\netcoreapp3.1\power.dll
+C:\Users\Resad\source\repos\power\power\bin\Debug\netcoreapp3.1\power.pdb
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.csproj.AssemblyReference.cache
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.AssemblyInfoInputs.cache
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.AssemblyInfo.cs
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.dll
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.pdb
+C:\Users\Resad\source\repos\power\power\obj\Debug\netcoreapp3.1\power.genruntimeconfig.cache
